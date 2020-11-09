@@ -1,2 +1,1 @@
-# blends
-blender works
+# blender and photoshop works
